@@ -41,3 +41,9 @@ C:\Users\Mfundo\Desktop\bestman.react\BestmanWebApi\obj\Release\net9.0\refint\Be
 C:\Users\Mfundo\Desktop\bestman.react\BestmanWebApi\obj\Release\net9.0\BestmanWebApi.pdb
 C:\Users\Mfundo\Desktop\bestman.react\BestmanWebApi\obj\Release\net9.0\BestmanWebApi.genruntimeconfig.cache
 C:\Users\Mfundo\Desktop\bestman.react\BestmanWebApi\obj\Release\net9.0\ref\BestmanWebApi.dll
+C:\Users\Mfundo\Desktop\bestman.react\BestmanWebApi\bin\Release\net9.0\out\web.config
+C:\Users\Mfundo\Desktop\bestman.react\BestmanWebApi\bin\Release\net9.0\out\appsettings.Development.json
+C:\Users\Mfundo\Desktop\bestman.react\BestmanWebApi\bin\Release\net9.0\out\appsettings.json
+C:\Users\Mfundo\Desktop\bestman.react\BestmanWebApi\bin\Release\net9.0\out\BestmanWebApi.deps.json
+C:\Users\Mfundo\Desktop\bestman.react\BestmanWebApi\bin\Release\net9.0\out\BestmanWebApi.runtimeconfig.json
+C:\Users\Mfundo\Desktop\bestman.react\BestmanWebApi\bin\Release\net9.0\out\BestmanWebApi.staticwebassets.endpoints.json
