@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BestmanWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a1be3fbb76d870b2389aa8334bd978d6256d7ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1405faa6df69481491a127cfa6c7eba4ced0bb8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BestmanWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BestmanWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

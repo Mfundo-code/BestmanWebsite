@@ -37,7 +37,7 @@ const handleSubmit = async (e) => {
   e.preventDefault();
 
   try {
-    const response = await fetch('http://localhost:5006/api/Contact', {
+    const response = await fetch('http://207.180.201.93:5006/api/Contact', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
